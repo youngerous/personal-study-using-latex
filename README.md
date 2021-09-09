@@ -1,1 +1,3 @@
-# personal-study-using-latex
+# Personal Studies
+
+I often take note for personal study.
